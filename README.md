@@ -20,14 +20,12 @@ Pour lancer notre moteur multimodal, il suffit de lancer dans l'ordre énoncées
 
 ## Actions réalisables
 ###  Creer une forme
-- prononcer "CREATE + forme [+ couleur] + THERE" + cliquer au niveau de l'emplacement désiré
-- prononcer "CREATE + THIS [+ couleur] + THERE" + dessiner la forme dans ivy + cliquer au niveau de l'emplacement désiré
+- prononcer "DESSINER + TRIANGLE (RECTANGLE/LOSANGE/CERCLE) [+ couleur] + ICI" + cliquer au niveau de l'emplacement désiré
+- prononcer "CREER + CETTE FORME [+ couleur] + ICI" + dessiner la forme dans ICAR + cliquer au niveau de l'emplacement désiré
 ### Déplacer une forme
-- prononcer "MOVE + THIS" + cliquer sur la forme à déplacer + cliquer sur l'emplacement désiré
+- prononcer "DEPLACER + CETTE FORME ICI" + cliquer sur la forme à déplacer + cliquer sur l'emplacement désiré
 ### Supprimer une forme
-- prononcer "DELETE + THIS" + cliquer sur la forme à supprimer
-### Quitter le système
-- prononcer "QUIT"
+- prononcer "SUPPRIMER + CETTE FORME" + cliquer sur la forme à supprimer
 
 # Chronogrammes
 
