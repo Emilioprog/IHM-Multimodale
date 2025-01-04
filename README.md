@@ -27,10 +27,28 @@ Pour lancer notre moteur multimodal, il suffit de lancer dans l'ordre énoncées
 ### Supprimer une forme
 - prononcer "SUPPRIMER + CETTE FORME" + cliquer sur la forme à supprimer
 
+## Grammaire parole
+CREATE={créer, dessiner, tracer}
+
+DELETE={supprimer, effacer}
+
+MOVE={déplacer, bouger}
+
+
+
+THIS={cette forme, ça}
+
+THERE={là, ici, à cet endroit}
+
+forme={triangle, losange, cercle, rectangle}
+
+couleur={rouge, orange, jaune, vert, bleu, violet, noir}
+
 # Chronogrammes
 
-![image](https://github.com/user-attachments/assets/d335a784-f6aa-4011-9d2c-8f34d613314e)
+![image](https://github.com/user-attachments/assets/ec25c57c-c4da-46bb-ad83-883c36992025)
 
 # Machine à états
 
-![image](https://github.com/user-attachments/assets/5823cc18-4f39-46f3-8808-2ec5dd3cb304)
+![image](https://github.com/user-attachments/assets/921214b1-e7c8-4ef0-b58e-8353e99f6057)
+
